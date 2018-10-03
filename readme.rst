@@ -17,3 +17,5 @@ If you want to install splinart::
 or::
 
     conda install -c gouarin splinart
+
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/Emblanc/Splinart.git/master
